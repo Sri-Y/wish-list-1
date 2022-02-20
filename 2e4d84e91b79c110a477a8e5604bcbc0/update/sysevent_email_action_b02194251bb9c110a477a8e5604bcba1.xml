@@ -50,7 +50,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Wishes Item created</subject>
+        <subject>Wishes Item created ServiceNow</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -58,7 +58,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b02194251bb9c110a477a8e5604bcba1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Hello App</sys_name>
         <sys_overrides/>
         <sys_package display_value="wishes list" source="x_677464_wishes_li">2e4d84e91b79c110a477a8e5604bcbc0</sys_package>
@@ -66,7 +66,7 @@
         <sys_scope display_value="wishes list">2e4d84e91b79c110a477a8e5604bcbc0</sys_scope>
         <sys_update_name>sysevent_email_action_b02194251bb9c110a477a8e5604bcba1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-02-20 12:40:21</sys_updated_on>
+        <sys_updated_on>2022-02-20 12:41:52</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
